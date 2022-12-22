@@ -2,7 +2,7 @@
 <p><em>Multiplatform Software Development at <a href="https://www.ipf.edu.ar/">Instituto Politécnico Formosa</a>
 </em></p>
 
-[![Twitter: rstonutti](https://img.shields.io/twitter/follow/rodrigo_tonutti?style=social)](https://twitter.com/rodrigo_tonutti)
+<!--[![Twitter: rstonutti](https://img.shields.io/twitter/follow/rodrigo_tonutti?style=social)](https://twitter.com/rodrigo_tonutti) -->
 [![Linkedin: rstonutti](https://img.shields.io/badge/-rstonutti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rstonutti/)](https://www.linkedin.com/in/rstonutti/)
 [![GitHub rstonutti](https://img.shields.io/github/followers/rstonutti?label=follow&style=social)](https://github.com/rstonutti)
 
